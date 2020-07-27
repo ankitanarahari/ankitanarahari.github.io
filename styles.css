@@ -80,7 +80,7 @@ header h1 {
 
 header h2 {
 	font: 14px/20px "Arial";
-	color: white;							/*HINT - This is where you change quote color */
+	color: magenta;							/*HINT - This is where you change quote color */
 	text-align: center; 
 }
 
